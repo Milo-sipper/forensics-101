@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd030d6681b5c344",
+  "active": "52fa1c867620fffd",
   "lastOpenFiles": [
+    "README.md",
     "Network Analysis (.pcap)/Networking 101/1.03 The OSI model.md",
     "Network Analysis (.pcap)/Networking 101/1.04 Aircrack tutorial.md",
     "Network Analysis (.pcap)/Networking 101/1.02 What are packets?.md",
@@ -217,7 +218,6 @@
     "images/Pasted image 20250403125851.png",
     "images/Pasted image 20250403125147.png",
     "Network Analysis (.pcap)/1.7 USB keylogger decoding.md",
-    "Disk Imagery/1.3 Common disk image \"hiding spots\".md",
     "Random bullshit go!/Random challenge dump",
     "Network Analysis (.pcap)/Networking 101",
     "Fake forens (Steg)/Other Stego",
