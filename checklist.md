@@ -4,7 +4,7 @@ networking -- working on it
 
 ## fix 
 [[1.02 What are packets?]]
-## add shit / touch up 
+## add stuff / touch up 
 [[1.03 The OSI model]]
 [[1.05 Ports and port forwarding]] (This one is a maybe )
 

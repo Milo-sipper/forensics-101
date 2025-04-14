@@ -4,7 +4,7 @@ So, you want to learn forensics huh? I wonder what made you think of picking thi
 - ``just_cat_the_firefly``
 -  Ryan (you may know me by whatever sean't calls me)
 ###### why am i making this?
-I  am making this because I want to to pass down forens to the next gen (as it stands, I am the only forens main in CCT). Another reason is because I am year 6 in 2025, and I about to step down (actually, I would have probably stepped down by the time you are reading this), and i owe a lot to CCT. I hope by writing this guide, i hope i can help future forens mains have a less painful journey when learning forens.
+I  am making this because I want to to pass down forens to the next gen (as it stands, I am the only forens main in CCT). Another reason is because I am year 6 in 2025, and about to step down (I would have probably disappeared by the time you are reading this), and i owe a lot to CCT. I hope by writing this guide, i hope i can help future forens mains have a less painful journey when learning forens.
 
 I know you have a lot of questions, and yep ill answer them in due time. But like before you continue, i would just want to let u know what you really are getting yourself into
 ## Forenshits is:
