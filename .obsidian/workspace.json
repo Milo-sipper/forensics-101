@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Analysis (.pcap)/Networking 101/1.07 Tunnelling.md",
+                "file": "Off-by-one/day 1/Patch diffing you are my sword.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.07 Tunnelling"
+              "title": "Patch diffing you are my sword"
             }
           }
         ]
@@ -181,10 +181,15 @@
   },
   "active": "fa481a4d0ef9d0fb",
   "lastOpenFiles": [
-    "README.md",
+    "Off-by-one/day 1/Spyware for rent and the world of offensive cyber.md",
+    "Off-by-one/day 1/Patch diffing you are my sword.md",
+    "Off-by-one/day 1",
+    "Off-by-one",
+    "Network Analysis (.pcap)/1.1 PCAP (Packet Capture Files).md",
     "Network Analysis (.pcap)/Networking 101/1.07 Tunnelling.md",
-    "Network Analysis (.pcap)/Networking 101/1.06 WAN vs LAN.md",
     "Network Analysis (.pcap)/Networking 101/1.05 Ports and port forwarding.md",
+    "README.md",
+    "Network Analysis (.pcap)/Networking 101/1.06 WAN vs LAN.md",
     "Network Analysis (.pcap)/Networking 101/1.04 Aircrack tutorial.md",
     "Network Analysis (.pcap)/Networking 101/1.03 The OSI model.md",
     "Network Analysis (.pcap)/Networking 101/1.02 What are packets?.md",
@@ -201,15 +206,12 @@
     "Untitled.canvas",
     "images/Pasted image 20250411182338.png",
     "Untitled 1.canvas",
-    "Network Analysis (.pcap)/1.1 PCAP (Packet Capture Files).md",
     "An Introduction.md",
     "Network Analysis (.pcap)/1.2 A general Wireshark tutorial.md",
     "Fake forens (Steg)/Image Stego/1.2 MSB.md",
     "Fake forens (Steg)/Image Stego/1.1 LSB.md",
     "Fake forens (Steg)/Image Stego/1.6 Zero-width stego & snow stego.md",
     "Fake forens (Steg)/Image Stego/1.4 Powerpoint stego (.rels) & XML documents.md",
-    "Random bullshit go!/Random challenge dump/1.? Powershell forensics.md",
-    "Random bullshit go!/1.1 How I guess better™️.md",
     "images/Pasted image 20250410234451.png",
     "images/Pasted image 20250410231418.png",
     "images/Pasted image 20250410230716.png",
@@ -226,8 +228,6 @@
     "Fake forens (Steg)/Image Stego",
     "Random bullshit go!",
     "Network Analysis (.pcap)",
-    "Disk Imagery",
-    "Volatility",
-    "Fake forens (Steg)"
+    "Disk Imagery"
   ]
 }
