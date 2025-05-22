@@ -1,7 +1,5 @@
 Chat what is spyware
 > Shit that is sold for consumers to spy on people (in a grey zone)
-> 
-
 #### 0-click vs 1-click
 - 1-click is when the user is required to click on something to trigger the attack. 
 - 0-clicks are when the user gets sent the message and is pwned. (messages, wifi etc)

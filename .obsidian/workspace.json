@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Off-by-one/day 1/Patch diffing you are my sword.md",
+                "file": "Off-by-one/day 2/why would i care about a vulnerability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Patch diffing you are my sword"
+              "title": "why would i care about a vulnerability"
             }
           }
         ]
@@ -179,8 +179,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa481a4d0ef9d0fb",
+  "active": "33ddd281b44019f7",
   "lastOpenFiles": [
+    "Off-by-one/day 2/decompiler.md",
+    "Off-by-one/day 2/why would i care about a vulnerability.md",
+    "Off-by-one/day 1/windows security support provider interface.md",
+    "Off-by-one/day 2",
+    "Off-by-one/day 1/scudo.md",
+    "Off-by-one/day 1/IOT hacking @ASUS.md",
+    "images/Pasted image 20250508165948.png",
+    "images/Pasted image 20250508165947 1.png",
+    "images/Pasted image 20250508165947.png",
+    "Off-by-one/day 1/Speed up RE with HRTNG plugin.md",
     "Off-by-one/day 1/Spyware for rent and the world of offensive cyber.md",
     "Off-by-one/day 1/Patch diffing you are my sword.md",
     "Off-by-one/day 1",
@@ -206,28 +216,18 @@
     "Untitled.canvas",
     "images/Pasted image 20250411182338.png",
     "Untitled 1.canvas",
-    "An Introduction.md",
-    "Network Analysis (.pcap)/1.2 A general Wireshark tutorial.md",
-    "Fake forens (Steg)/Image Stego/1.2 MSB.md",
-    "Fake forens (Steg)/Image Stego/1.1 LSB.md",
-    "Fake forens (Steg)/Image Stego/1.6 Zero-width stego & snow stego.md",
-    "Fake forens (Steg)/Image Stego/1.4 Powerpoint stego (.rels) & XML documents.md",
     "images/Pasted image 20250410234451.png",
     "images/Pasted image 20250410231418.png",
     "images/Pasted image 20250410230716.png",
     "images/Pasted image 20250410225900.png",
     "images/Pasted image 20250409152447.png",
     "images/Pasted image 20250409144714.png",
-    "images/Pasted image 20250403134427.png",
-    "images/Pasted image 20250403134422.png",
-    "images/Pasted image 20250403125851.png",
     "Random bullshit go!/Random challenge dump",
     "Network Analysis (.pcap)/Networking 101",
     "Fake forens (Steg)/Other Stego",
     "Fake forens (Steg)/Audio Stego",
     "Fake forens (Steg)/Image Stego",
     "Random bullshit go!",
-    "Network Analysis (.pcap)",
-    "Disk Imagery"
+    "Network Analysis (.pcap)"
   ]
 }
