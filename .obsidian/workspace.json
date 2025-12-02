@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Off-by-one/day 2/why would i care about a vulnerability.md",
+                "file": "Basics/1.3 File formats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "why would i care about a vulnerability"
+              "title": "1.3 File formats"
+            }
+          },
+          {
+            "id": "6de122fef5d5ce42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fake forens (Steg)/Image Stego/1.6 Zero-width stego & snow stego.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.6 Zero-width stego & snow stego"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics/1.5 Zip files and bruteforcing.md",
+                "file": "Basics/1.3 File formats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.5 Zip files and bruteforcing"
+              "title": "Outgoing links from 1.3 File formats"
             }
           },
           {
@@ -142,17 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Analysis (.pcap)/Networking 101/1.05 Ports and port forwarding.md",
+                "file": "Fake forens (Steg)/Image Stego/1.6 Zero-width stego & snow stego.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.05 Ports and port forwarding"
+              "title": "Outline of 1.6 Zero-width stego & snow stego"
             }
           },
           {
-            "id": "52fa1c867620fffd",
+            "id": "99a59d4828fcc6a0",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,53 +181,54 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33ddd281b44019f7",
+  "active": "6de122fef5d5ce42",
   "lastOpenFiles": [
-    "Off-by-one/day 2/decompiler.md",
-    "Off-by-one/day 2/why would i care about a vulnerability.md",
-    "Off-by-one/day 1/windows security support provider interface.md",
-    "Off-by-one/day 2",
-    "Off-by-one/day 1/scudo.md",
-    "Off-by-one/day 1/IOT hacking @ASUS.md",
+    "Fake forens (Steg)/Image Stego/1.5 The Kuruhawa algorithm & other random quips.md",
+    "Disk Imagery/1.1 What is a disk image.md",
+    "Disk Imagery/1.5 Linux and Windows file structures.md",
+    "Disk Imagery/1.3 Common disk image hiding spots.md",
+    "Disk Imagery/1.2 Autopsy tutorial.md",
+    "Basics/1.8 Qr codes.md",
+    "Basics/1.3 File formats.md",
+    "Basics/1.2 Hex editing, Binary, decimal, and base 64.md",
+    "Basics/1.4 File Metadata and File Carving.md",
+    "Basics/1.5 Zip files and bruteforcing.md",
+    "An Introduction.md",
+    "2025-11-23.md",
+    "checklist.md",
+    "README.md",
+    "Off-by-one (random notes)/day 2/why would i care about a vulnerability.md",
+    "Off-by-one (random notes)/day 2/decompiler.md",
+    "Off-by-one (random notes)/day 1/windows security support provider interface.md",
+    "Off-by-one (random notes)/day 1/Spyware for rent and the world of offensive cyber.md",
+    "Off-by-one (random notes)/day 1/Speed up RE with HRTNG plugin.md",
+    "Off-by-one (random notes)/day 1/scudo.md",
+    "Off-by-one (random notes)/day 1/Patch diffing you are my sword.md",
+    "Off-by-one (random notes)/day 1/IOT hacking @ASUS.md",
+    "Basics/1.1 What is forensics all about.md",
+    "Off-by-one (random notes)/day 2",
     "images/Pasted image 20250508165948.png",
     "images/Pasted image 20250508165947 1.png",
     "images/Pasted image 20250508165947.png",
-    "Off-by-one/day 1/Speed up RE with HRTNG plugin.md",
-    "Off-by-one/day 1/Spyware for rent and the world of offensive cyber.md",
-    "Off-by-one/day 1/Patch diffing you are my sword.md",
-    "Off-by-one/day 1",
-    "Off-by-one",
+    "Off-by-one (random notes)/day 1",
+    "Off-by-one (random notes)",
     "Network Analysis (.pcap)/1.1 PCAP (Packet Capture Files).md",
     "Network Analysis (.pcap)/Networking 101/1.07 Tunnelling.md",
     "Network Analysis (.pcap)/Networking 101/1.05 Ports and port forwarding.md",
-    "README.md",
-    "Network Analysis (.pcap)/Networking 101/1.06 WAN vs LAN.md",
-    "Network Analysis (.pcap)/Networking 101/1.04 Aircrack tutorial.md",
-    "Network Analysis (.pcap)/Networking 101/1.03 The OSI model.md",
-    "Network Analysis (.pcap)/Networking 101/1.02 What are packets?.md",
-    "Network Analysis (.pcap)/Networking 101/1.01 DNS, TCP-IP and MAC addresses.md",
-    "Basics/1.8 Qr codes.md",
-    "Basics/1.7 Hashing hashes.md",
-    "Basics/1.6 Pdfs and their intricacies.md",
-    "Basics/1.5 Zip files and bruteforcing.md",
-    "Basics/1.4 File Metadata and File Carving.md",
-    "Basics/1.3 File formats.md",
-    "Basics/1.2 Hex editing, Binary, decimal, and base 64.md",
-    "Basics/1.1 What is forensics all about?.md",
-    "checklist.md",
     "Untitled.canvas",
     "images/Pasted image 20250411182338.png",
     "Untitled 1.canvas",
